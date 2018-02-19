@@ -7,12 +7,12 @@ Settings = (function() {
   Settings.prototype.defaults = {
     bg_period: 'tab',
     time_display: '1',
-    time_12hour: '0',
+    time_12hour: '1',
     time_display_meridiem: '0',
     time_animate_seperators: '1',
     time_border_display: '1',
-    time_digit_transparency: '100',
-    time_border_transparency: '100',
+    time_digit_transparency: '90',
+    time_border_transparency: '90',
     date_display: '0',
     date_format: 'dddd LL',
     date_position: 'viewport-bottom'
